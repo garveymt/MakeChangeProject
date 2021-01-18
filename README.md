@@ -2,16 +2,21 @@
 
 ### Description
 
-//description of the Project
+To make a working cash register that will tell how much change you got back, whether you put in the correct amount, or provided the right amount.
 
 ### Topics and Technologies Used
-
-//what was used from the material this week (helpful and used) (use the * to make bullet points)
+* Double 
+* Int
+* Boolean
+* While Loop
+* If / else if statements
+* Else statements
+* Modeulus
 
 ### How to Run
 
-//run the application with possible input on the project for how it would work
+Follow commands on screen and input when needed
 
 ### Lessons Learned
 
-//how ideas and techniques changed
+I gained more of an understanding on how to formate a while loop statement and how to set up equations.
